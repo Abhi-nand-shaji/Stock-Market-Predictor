@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-Provides comparative analysis of stock market for companies and predicts futures stock values employing decision tree algorithm.
+Provides comparative analysis of stock market for companies and predicts futures stock values employing decision tree algorithm.//
 
  • Utilised the yfinance library to extrapolate a market value visualisation of NASDAQ companies with a Risk vs Return plot.
  • Computed stock market prediction using time series shifting on existing data with Linear Regression and Decision Trees. 
